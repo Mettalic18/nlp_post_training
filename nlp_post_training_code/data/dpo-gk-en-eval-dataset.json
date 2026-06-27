@@ -1,0 +1,14 @@
+[
+  {
+    "Q_en": "What is a cache memory?",
+    "A_en": "Cache memory is a type of high-speed memory used by a computers CPU to store frequently accessed data for faster processing.\\n"
+  },
+  {
+    "Q_en": "What is a compiler?",
+    "A_en": "A compiler is a software tool that translates source code written in a high-level programming language into executable code that can be run on a computer.\\n"
+  },
+  {
+    "Q_en": "What is coding?",
+    "A_en": "Coding, also known as programming, is the process of creating instructions or code for a computer system using a programming language.\\n"
+  }
+]
