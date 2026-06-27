@@ -1,0 +1,1 @@
+This project seeks to fine tune a Qwen 3.0 Base model and Qwen 2.5 Base model for general context question answering and language translation. This implementation uses the slurm hypercluster for training and running. 
